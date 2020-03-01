@@ -1,0 +1,36 @@
+main {
+  margin-top: 80px;
+}
+.carousel, .carousel-inner, .carousel-item {
+  height: 300px;
+}
+.img-div {
+  height: 300px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.one {
+  background-image: url("https://i.ytimg.com/vi/R4rcxSV8ZRs/maxresdefault.jpg");
+}
+.two {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMqRhI0kr4YTHYJz4GcSf7xv4ibF6_C4vSUb3CnkV3PPwHbPt6A&s");
+}
+.three {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvG7e3K2-xWuVlBozTdN3YLjsEavhW2UfClz7Sm3uz8_wTltoZA&s");
+}
+.bd-placeholder-img {
+  height: 300px;
+}
+.marketing {
+  margin-top: 20px;
+  text-align: center;
+}
+.marketing .rounded-circle {
+  height: 80px;
+  width: 80px;
+}
+.square {
+  height: 150px;
+  width: 150px;
+}
